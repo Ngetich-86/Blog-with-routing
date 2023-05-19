@@ -1,0 +1,69 @@
+/* .containBlogs{
+    display: flex;
+    justify-content: space-between; 
+    background-color:liner-gradient(to right,green, orange); 
+}
+
+.mapBlog{
+    width: 60%;
+    border: 1px solid black;
+    height: 100%;
+    margin-top: 10px;
+    border-radius: 4px;
+ 
+}
+.blog{
+    border: 1px solid black;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+} */
+/* .title{
+    text-align: center;
+    color:white;
+    border: 1px solid blue;
+    background-color:orchid;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+.content{
+    padding: 20px;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    color:white;
+}
+.shortSummary{
+    width: 40%;
+    text-align: center;
+
+}
+.sammary-title{
+    text-align: center;
+    color: orange;
+    
+}
+.summary{
+    border: 1px solid black;
+    padding: 54px;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    border-radius: 8px;
+} */
+.readmore-btn{
+    background-color: black;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
